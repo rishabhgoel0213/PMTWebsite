@@ -1,0 +1,368 @@
+.contact-us-mock-up {
+    background-color: #000000;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.contact-us-mock-up .div {
+    background-color: #000000;
+    width: 1440px;
+    height: 2302px;
+    position: relative;
+}
+
+.contact-us-mock-up .overlap-group {
+    position: absolute;
+    width: 1440px;
+    height: 888px;
+    top: 0;
+    left: 0;
+    background-color: #d9d9d9;
+}
+
+.contact-us-mock-up .group {
+    position: absolute;
+    width: 1304px;
+    height: 104px;
+    top: 65px;
+    left: 61px;
+}
+
+.contact-us-mock-up .frame {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 35px;
+    position: absolute;
+    top: 30px;
+    left: 704px;
+}
+
+.contact-us-mock-up .text-wrapper {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.contact-us-mock-up .text-wrapper-2 {
+    position: absolute;
+    top: 30px;
+    left: 1110px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.contact-us-mock-up .text-wrapper-3 {
+    position: absolute;
+    top: 31px;
+    left: 860px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.contact-us-mock-up .text-wrapper-4 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Galada-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 64px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.contact-us-mock-up .text-wrapper-5 {
+    position: absolute;
+    width: 779px;
+    top: 424px;
+    left: 339px;
+    text-shadow: 0px 4px 4px #00000040;
+    font-family: "KoPub Batang-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 128px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.contact-us-mock-up .footer {
+    display: flex;
+    width: 1440px;
+    height: 276px;
+    align-items: flex-end;
+    gap: 24px;
+    padding: 24px;
+    position: absolute;
+    top: 2026px;
+    left: 0;
+    background-color: #101010;
+}
+
+.contact-us-mock-up .col {
+    display: flex;
+    flex-direction: column;
+    height: 224px;
+    align-items: flex-start;
+    justify-content: space-between;
+    position: relative;
+    flex: 1;
+    flex-grow: 1;
+}
+
+.contact-us-mock-up .block {
+    gap: 8px;
+    flex: 0 0 auto;
+    display: inline-flex;
+    align-items: flex-start;
+    position: relative;
+}
+
+.contact-us-mock-up .text-wrapper-6 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "KoPub Batang-Regular", Helvetica;
+    font-weight: 400;
+    color: #d3d5d8;
+    font-size: 36px;
+    letter-spacing: -1.44px;
+    line-height: 36px;
+    white-space: nowrap;
+}
+
+.contact-us-mock-up .row-wrapper {
+    flex-direction: column;
+    height: 88px;
+    gap: 4px;
+    display: inline-flex;
+    align-items: flex-start;
+    position: relative;
+}
+
+.contact-us-mock-up .row {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 16px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.contact-us-mock-up .text-wrapper-7 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #d3d5d8;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 22.4px;
+    white-space: nowrap;
+}
+
+.contact-us-mock-up .text-wrapper-8 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    opacity: 0.4;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #d3d5d8;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 19.6px;
+    white-space: nowrap;
+}
+
+.contact-us-mock-up .text-wrapper-9 {
+    position: relative;
+    width: 55px;
+    height: 21px;
+    margin-top: -1px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #d4d4d4;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 22.4px;
+    white-space: nowrap;
+}
+
+.contact-us-mock-up .col-2 {
+    width: 422px;
+    height: 196px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-end;
+    gap: 32px;
+    position: relative;
+}
+
+.contact-us-mock-up .block-2 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.contact-us-mock-up .text-wrapper-10 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    opacity: 0.6;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #d3d5d8;
+    font-size: 10px;
+    letter-spacing: 0.4px;
+    line-height: 13px;
+    white-space: nowrap;
+}
+
+.contact-us-mock-up .text-wrapper-11 {
+    position: relative;
+    width: fit-content;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #d3d5d8;
+    font-size: 20px;
+    letter-spacing: -0.4px;
+    line-height: 24px;
+    white-space: nowrap;
+}
+
+.contact-us-mock-up .text-wrapper-12 {
+    position: relative;
+    width: fit-content;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #d3d5d8;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 19.6px;
+    white-space: nowrap;
+}
+
+.contact-us-mock-up .col-3 {
+    flex: 1;
+    align-self: stretch;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-end;
+    gap: 32px;
+    position: relative;
+}
+
+.contact-us-mock-up .p {
+    position: absolute;
+    width: 515px;
+    top: 1045px;
+    left: 858px;
+    font-family: "KoPub Batang-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.contact-us-mock-up .image {
+    position: absolute;
+    width: 663px;
+    height: 469px;
+    top: 981px;
+    left: 40px;
+    object-fit: cover;
+}
+
+.contact-us-mock-up .reach-out-to-us {
+    position: absolute;
+    width: 373px;
+    top: 1207px;
+    left: 921px;
+    font-family: "KoPub Batang-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.contact-us-mock-up .instagram {
+    position: absolute;
+    width: 160px;
+    height: 159px;
+    top: 1698px;
+    left: 325px;
+}
+
+.contact-us-mock-up .you-tube {
+    position: absolute;
+    width: 136px;
+    height: 136px;
+    top: 1710px;
+    left: 661px;
+}
+
+.contact-us-mock-up .tik-tok {
+    position: absolute;
+    width: 136px;
+    height: 136px;
+    top: 1710px;
+    left: 1008px;
+}
+
+.contact-us-mock-up .line {
+    top: 1642px;
+    left: 153px;
+    position: absolute;
+    width: 1134px;
+    height: 4px;
+}
+
+.contact-us-mock-up .img {
+    top: 2022px;
+    left: 162px;
+    position: absolute;
+    width: 1134px;
+    height: 4px;
+}
+
+.contact-us-mock-up .text-wrapper-13 {
+    position: absolute;
+    width: 1024px;
+    top: 1915px;
+    left: 220px;
+    font-family: "KoPub Batang-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}

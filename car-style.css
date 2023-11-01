@@ -1,0 +1,285 @@
+.car-mockup {
+    background-color: #000000;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.car-mockup .div {
+    background-color: #000000;
+    overflow: hidden;
+    width: 1440px;
+    height: 3081px;
+    position: relative;
+}
+
+.car-mockup .footer {
+    display: flex;
+    width: 1440px;
+    height: 276px;
+    align-items: flex-end;
+    gap: 24px;
+    padding: 24px;
+    position: absolute;
+    top: 2806px;
+    left: 0;
+    background-color: #101010;
+}
+
+.car-mockup .col {
+    display: flex;
+    flex-direction: column;
+    height: 224px;
+    align-items: flex-start;
+    justify-content: space-between;
+    position: relative;
+    flex: 1;
+    flex-grow: 1;
+}
+
+.car-mockup .block {
+    gap: 8px;
+    flex: 0 0 auto;
+    display: inline-flex;
+    align-items: flex-start;
+    position: relative;
+}
+
+.car-mockup .text-wrapper {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "KoPub Batang-Regular", Helvetica;
+    font-weight: 400;
+    color: #d3d5d8;
+    font-size: 36px;
+    letter-spacing: -1.44px;
+    line-height: 36px;
+    white-space: nowrap;
+}
+
+.car-mockup .row-wrapper {
+    flex-direction: column;
+    height: 88px;
+    gap: 4px;
+    display: inline-flex;
+    align-items: flex-start;
+    position: relative;
+}
+
+.car-mockup .row {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 16px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.car-mockup .text-wrapper-2 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #d3d5d8;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 22.4px;
+    white-space: nowrap;
+}
+
+.car-mockup .text-wrapper-3 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    opacity: 0.4;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #d3d5d8;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 19.6px;
+    white-space: nowrap;
+}
+
+.car-mockup .text-wrapper-4 {
+    position: relative;
+    width: 55px;
+    height: 21px;
+    margin-top: -1px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #d4d4d4;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 22.4px;
+    white-space: nowrap;
+}
+
+.car-mockup .col-2 {
+    width: 422px;
+    height: 196px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-end;
+    gap: 32px;
+    position: relative;
+}
+
+.car-mockup .block-2 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.car-mockup .text-wrapper-5 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    opacity: 0.6;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #d3d5d8;
+    font-size: 10px;
+    letter-spacing: 0.4px;
+    line-height: 13px;
+    white-space: nowrap;
+}
+
+.car-mockup .text-wrapper-6 {
+    position: relative;
+    width: fit-content;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #d3d5d8;
+    font-size: 20px;
+    letter-spacing: -0.4px;
+    line-height: 24px;
+    white-space: nowrap;
+}
+
+.car-mockup .text-wrapper-7 {
+    position: relative;
+    width: fit-content;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #d3d5d8;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 19.6px;
+    white-space: nowrap;
+}
+
+.car-mockup .col-3 {
+    flex: 1;
+    align-self: stretch;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-end;
+    gap: 32px;
+    position: relative;
+}
+
+.car-mockup .group {
+    position: absolute;
+    width: 1304px;
+    height: 104px;
+    top: 65px;
+    left: 61px;
+}
+
+.car-mockup .frame {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 35px;
+    position: absolute;
+    top: 30px;
+    left: 704px;
+}
+
+.car-mockup .text-wrapper-8 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    font-size: 36px;
+    color: #ffffff;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.car-mockup .text-wrapper-9 {
+    position: absolute;
+    top: 30px;
+    left: 1110px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.car-mockup .text-wrapper-10 {
+    position: absolute;
+    top: 31px;
+    left: 860px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.car-mockup .text-wrapper-11 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Galada-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 64px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.car-mockup .text-wrapper-12 {
+    position: absolute;
+    width: 779px;
+    top: 424px;
+    left: 323px;
+    text-shadow: 0px 4px 4px #00000040;
+    font-family: "KoPub Batang-Bold", Helvetica;
+    font-weight: 700;
+    font-size: 128px;
+    text-align: center;
+    color: #ffffff;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.car-mockup .text-wrapper-13 {
+    position: absolute;
+    width: 1255px;
+    top: 819px;
+    left: 104px;
+    font-family: "KoPub Batang-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+
